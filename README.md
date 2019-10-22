@@ -1,3 +1,5 @@
+# AcademicNetworks
+
 ![](featured.png)
 
 This app provides an interactive interface for Neural Network Analysis (NNA) using the `visNetwork` package, allowing [D3](https://d3js.org) interaction with data, nodes and edges.
@@ -26,7 +28,7 @@ The visualization of complex networks can reveal unexpected insights into relati
 | Professor 16 | Geosciences | GIS, Compositional |
 | Professor 17 | Geosciences | Compositional, Survey, Machine Learning, Qualitative |
 
-This app provides a graphical means of exploring the dataframe and the relationships between individuals and departments, highlighting the strength of existing connections and potentially revealing areas for future development.
+This app provides a graphical means of exploring the dataframe and the relationships between individuals and departments, highlighting the strength of existing connections and potentially revealing areas for future development. Nodes are colored based on the parent department for each faculty member, while edge colors represent the shared technologies.
 
 ## Use
 
