@@ -1,0 +1,18 @@
+Name,Department,Tags
+Professor 1,Anthropology,"GIS, Survey"
+Professor 2,Anthropology,"GIS, Machine Learning"
+Professor 3,Art,"Qualitative, Survey"
+Professor 4,Art,GIS
+Professor 5,English,Qualitative
+Professor 6,English,GIS
+Professor 7,English,"Survey, GIS"
+Professor 8,History,Survey
+Professor 9,History,GIS
+Professor 10,History,Machine Learning
+Professor 11,Philosophy,Qualitative
+Professor 12,Philosophy,"Survey, Qualitative"
+Professor 13,Spanish,GIS
+Professor 14,Spanish,Qualitative
+Professor 15,Geosciences,"Machine Learning, Compositional"
+Professor 16,Geosciences,"GIS, Compositional"
+Professor 17,Geosciences,"Compositional, Survey, Machine Learning, Qualitative"
